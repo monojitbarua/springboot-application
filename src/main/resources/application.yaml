@@ -1,0 +1,6 @@
+server:
+  port: 8081
+
+my:
+  custom:
+    field2: testvalue2
